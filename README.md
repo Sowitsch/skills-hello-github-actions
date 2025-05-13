@@ -2,7 +2,7 @@
 
 # Hello GitHub Actions
 
-_Create and run a GitHub Actions workflow. :crying_cat_face: :smiley:_
+_Create and run a GitHub Actions workflow. :crying_cat_face: :smiley: :satisfied:_
 
 </header>
 
